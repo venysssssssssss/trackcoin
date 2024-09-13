@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "trackcoin"
+version = "1.0.0"
+description = "A bot made for use in patrimonial increase, free, easy, game changer for everyone."
+authors = ["venysssssssssss <shablaur7@hotmail.com>"]
+license = "APACHE"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
